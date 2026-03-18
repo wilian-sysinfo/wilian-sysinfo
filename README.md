@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white">
 </p>
 <p align="center">
-  <a href="[https://www.credly.com/badges/017886cc-2755-43b2-824b-78fa4c28f80d/public_url](https://www.credly.com/users/wilian-sysinfo)">
+  <a href="https://www.credly.com/users/wilian-sysinfo">
   <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="120"></a>
 </p>
 
